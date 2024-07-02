@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+
+.mainSection {
+  min-height: 90vh;
+}
+
+.partyImage {
+  max-width: 20rem;
+}
+
+.Kaffemaskin {
+  max-width: 15rem;
+}
+
+.aboutUsImages {
+  max-width: 15rem;
+}
